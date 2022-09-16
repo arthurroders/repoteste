@@ -1,0 +1,8 @@
+[submodule "t4blu3024"]
+	path = t4blu3024
+	url = https://github.com/arthurroders/t4blu3024.git
+	branch = master
+[submodule "repoteste"]
+	path = repoteste
+	url = https://github.com/arthurroders/repoteste.git
+	branch = master
